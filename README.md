@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VivekMehta16/Leet-Code/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/VivekMehta16/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VivekMehta16/Leet-Code/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VivekMehta16/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/VivekMehta16/Leet-Code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
