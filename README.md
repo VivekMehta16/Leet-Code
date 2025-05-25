@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/VivekMehta16/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VivekMehta16/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/VivekMehta16/Leet-Code/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/VivekMehta16/Leet-Code/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekMehta16/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/VivekMehta16/Leet-Code/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
