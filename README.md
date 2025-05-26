@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/VivekMehta16/Leet-Code/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/VivekMehta16/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/VivekMehta16/Leet-Code/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/VivekMehta16/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekMehta16/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VivekMehta16/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekMehta16/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/VivekMehta16/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekMehta16/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/VivekMehta16/Leet-Code/tree/master/0792-binary-search) |
 ## Greedy
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VivekMehta16/Leet-Code/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/VivekMehta16/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
