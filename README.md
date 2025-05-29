@@ -114,4 +114,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VivekMehta16/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VivekMehta16/Leet-Code/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VivekMehta16/Leet-Code/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VivekMehta16/Leet-Code/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VivekMehta16/Leet-Code/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
