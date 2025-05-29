@@ -19,8 +19,6 @@ class Solution(object):
                 return False
             left = check(p.left, q.left)
             right = check(p.right, q.right)
-            print(left, right)
-            x = left and right
-            return x
+            return left and right
 
         return check(p,q)
